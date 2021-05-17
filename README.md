@@ -1,4 +1,4 @@
-# Tailwind Traders Website Latest
+# Tailwind Traders Website Latest Update
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
